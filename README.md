@@ -1,2 +1,2 @@
 # RestaurantWebApp
-It is developed using Springboot and Angulart=
+It is developed using Springboot and Angular
